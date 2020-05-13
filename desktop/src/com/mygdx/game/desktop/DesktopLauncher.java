@@ -10,3 +10,8 @@ public class DesktopLauncher {
 		new LwjglApplication(new MyGdxGame(), config);
 	}
 }
+
+
+// Comentario del alex en desktop launcher
+
+//Comentario en branch TestAlex, funcions pls
